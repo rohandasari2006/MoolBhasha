@@ -1,0 +1,100 @@
+{
+  "templates": [
+    {
+      "template_id": "mcq_word_picture_001",
+      "type": "mcq",
+      "grades": ["balvatika", "grade_1"],
+      "domains": ["literacy"],
+      "template_hi": "चित्र से मेल खाने वाला सही शब्द चुनिए।",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "mcq_number_compare_001",
+      "type": "mcq",
+      "grades": ["grade_1", "grade_2"],
+      "domains": ["numeracy"],
+      "template_hi": "इनमें से कौन सी संख्या बड़ी है?",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "mcq_shape_001",
+      "type": "mcq",
+      "grades": ["balvatika", "grade_1"],
+      "domains": ["numeracy"],
+      "template_hi": "यह कौन सा आकार है?",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "mcq_passage_001",
+      "type": "mcq",
+      "grades": ["grade_2", "grade_3"],
+      "domains": ["literacy"],
+      "template_hi": "निम्नलिखित गद्यांश पढ़िए और सही उत्तर चुनिए: {{sentence}}",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "fill_blank_sentence_001",
+      "type": "fill_blank",
+      "grades": ["grade_1", "grade_2"],
+      "domains": ["literacy"],
+      "template_hi": "खाली जगह में सही शब्द लिखिए: {{sentence}}",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "fill_blank_number_001",
+      "type": "fill_blank",
+      "grades": ["grade_1", "grade_2", "grade_3"],
+      "domains": ["numeracy"],
+      "template_hi": "लुप्त संख्या भरिए: {{sentence}}",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "match_word_picture_001",
+      "type": "match_following",
+      "grades": ["balvatika", "grade_1"],
+      "domains": ["literacy"],
+      "template_hi": "शब्दों को चित्रों से मिलाइए।",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "match_number_quantity_001",
+      "type": "match_following",
+      "grades": ["balvatika", "grade_1"],
+      "domains": ["numeracy"],
+      "template_hi": "संख्याओं को मात्रा से मिलाइए।",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "true_false_statement_001",
+      "type": "true_false",
+      "grades": ["grade_1", "grade_2", "grade_3"],
+      "domains": ["literacy", "numeracy"],
+      "template_hi": "कथन पढ़िए और सही या गलत लिखिए: {{sentence}}",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "short_answer_one_word_001",
+      "type": "short_answer",
+      "grades": ["grade_1", "grade_2"],
+      "domains": ["literacy"],
+      "template_hi": "एक शब्द में उत्तर दीजिए: {{sentence}}",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "short_answer_numeric_001",
+      "type": "short_answer",
+      "grades": ["grade_2", "grade_3"],
+      "domains": ["numeracy"],
+      "template_hi": "हल कीजिए: {{sentence}}",
+      "answer_source": "content_bank"
+    },
+    {
+      "template_id": "short_answer_data_001",
+      "type": "short_answer",
+      "grades": ["grade_3"],
+      "domains": ["numeracy"],
+      "template_hi": "दिए गए आँकड़ों के आधार पर उत्तर दीजिए: {{sentence}}",
+      "answer_source": "content_bank"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "flashcards": [
+    {
+      "id": "lit_g1_letters_001",
+      "grade": "grade_1",
+      "domain": "literacy",
+      "topic": "letters",
+      "hindi": { "word": "क", "description": "यह व्यंजन 'क' है।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g1_lit_001" }
+    },
+    {
+      "id": "lit_g1_sounds_001",
+      "grade": "grade_1",
+      "domain": "literacy",
+      "topic": "sounds",
+      "hindi": { "word": "क — /ka/", "description": "'क' की ध्वनि सुनिए और दोहराइए।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g1_lit_001" }
+    },
+    {
+      "id": "lit_g1_words_001",
+      "grade": "grade_1",
+      "domain": "literacy",
+      "topic": "words",
+      "hindi": { "word": "गाय", "description": "गाय एक पशु है।" },
+      "image_asset": "assets/flashcards/images/animals/cow.webp",
+      "nipun": { "internal_outcome_id": "internal_fl_g1_lit_001" }
+    },
+    {
+      "id": "lit_g1_vocabulary_001",
+      "grade": "grade_1",
+      "domain": "literacy",
+      "topic": "vocabulary",
+      "hindi": { "word": "पेंसिल", "description": "हम पेंसिल से लिखते हैं।" },
+      "image_asset": "assets/flashcards/images/objects/pencil.webp",
+      "nipun": { "internal_outcome_id": "internal_fl_g1_lit_001" }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+      "id": "num_g2_addition_001",
+      "grade": "grade_2",
+      "domain": "numeracy",
+      "topic": "addition",
+      "hindi": { "word": "6 + 7 = 13", "description": "छह और सात जोड़ने पर तेरह आता है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g2_num_001" }
+    },
+    {
+      "id": "num_g2_subtraction_001",
+      "grade": "grade_2",
+      "domain": "numeracy",
+      "topic": "subtraction",
+      "hindi": { "word": "5 − 2 = 3", "description": "पाँच में से दो घटाने पर तीन बचता है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g2_num_001" }
+    },
+    {
+      "id": "num_g2_comparison_001",
+      "grade": "grade_2",
+      "domain": "numeracy",
+      "topic": "number_comparison",
+      "hindi": { "word": "5 > 3", "description": "पाँच, तीन से बड़ा है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g2_num_001" }
+    },
+    {
+      "id": "num_g2_measurement_001",
+      "grade": "grade_2",
+      "domain": "numeracy",
+      "topic": "measurement",
+      "hindi": { "word": "लंबा / छोटा", "description": "पेंसिल कलम से लंबी है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g2_num_001" }
+    }
+  ]
+}

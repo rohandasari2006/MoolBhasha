@@ -1,0 +1,117 @@
+{
+  "concepts": [
+    {
+      "concept_id": "animal_cow",
+      "grade": ["balvatika", "grade_1"],
+      "domain": "literacy",
+      "category": "animals",
+      "hindi": { "word": "गाय", "sentence": "गाय दूध देती है।" }
+    },
+    {
+      "concept_id": "animal_dog",
+      "grade": ["balvatika", "grade_1"],
+      "domain": "literacy",
+      "category": "animals",
+      "hindi": { "word": "कुत्ता", "sentence": "कुत्ता भौंकता है।" }
+    },
+    {
+      "concept_id": "fruit_mango",
+      "grade": ["balvatika", "grade_1", "grade_2"],
+      "domain": "literacy",
+      "category": "fruits",
+      "hindi": { "word": "आम", "sentence": "आम मीठा फल है।" }
+    },
+    {
+      "concept_id": "body_part_eye",
+      "grade": ["balvatika", "grade_1"],
+      "domain": "literacy",
+      "category": "body_parts",
+      "hindi": { "word": "आँख", "sentence": "हम आँखों से देखते हैं।" }
+    },
+    {
+      "concept_id": "color_red",
+      "grade": ["balvatika", "grade_1"],
+      "domain": "literacy",
+      "category": "colors",
+      "hindi": { "word": "लाल", "sentence": "सेब का रंग लाल है।" }
+    },
+    {
+      "concept_id": "school_object_pencil",
+      "grade": ["grade_1", "grade_2"],
+      "domain": "literacy",
+      "category": "school_objects",
+      "hindi": { "word": "पेंसिल", "sentence": "मैं पेंसिल से लिखता हूँ।" }
+    },
+    {
+      "concept_id": "family_mother",
+      "grade": ["grade_1", "grade_2", "grade_3"],
+      "domain": "literacy",
+      "category": "family",
+      "hindi": { "word": "माँ", "sentence": "मेरी माँ मुझे कहानी सुनाती है।" }
+    },
+    {
+      "concept_id": "number_seven",
+      "grade": ["balvatika", "grade_1"],
+      "domain": "numeracy",
+      "category": "counting",
+      "hindi": { "word": "सात", "sentence": "पेड़ पर सात पक्षी बैठे हैं।" },
+      "extra": { "value": 7 }
+    },
+    {
+      "concept_id": "shape_triangle",
+      "grade": ["balvatika", "grade_1"],
+      "domain": "numeracy",
+      "category": "shapes",
+      "hindi": { "word": "त्रिभुज", "sentence": "त्रिभुज की तीन भुजाएँ होती हैं।" },
+      "extra": { "sides": 3 }
+    },
+    {
+      "concept_id": "addition_5_3",
+      "grade": ["grade_1", "grade_2"],
+      "domain": "numeracy",
+      "category": "addition",
+      "hindi": { "word": "5 + 3", "sentence": "5 और 3 जोड़ने पर 8 आता है।" },
+      "extra": { "operand_a": 5, "operand_b": 3, "operator": "+", "result": 8 }
+    },
+    {
+      "concept_id": "subtraction_9_4",
+      "grade": ["grade_1", "grade_2"],
+      "domain": "numeracy",
+      "category": "subtraction",
+      "hindi": { "word": "9 - 4", "sentence": "9 में से 4 घटाने पर 5 बचता है।" },
+      "extra": { "operand_a": 9, "operand_b": 4, "operator": "-", "result": 5 }
+    },
+    {
+      "concept_id": "measurement_longer_shorter",
+      "grade": ["grade_2", "grade_3"],
+      "domain": "numeracy",
+      "category": "measurement",
+      "hindi": { "word": "लंबा-छोटा", "sentence": "पेंसिल कलम से लंबी है।" }
+    },
+    {
+      "concept_id": "pattern_ab_ab",
+      "grade": ["grade_2", "grade_3"],
+      "domain": "numeracy",
+      "category": "patterns",
+      "hindi": { "word": "पैटर्न", "sentence": "लाल, नीला, लाल, नीला — अगला रंग कौन सा है?" }
+    },
+    {
+      "concept_id": "reading_passage_garden",
+      "grade": ["grade_3"],
+      "domain": "literacy",
+      "category": "comprehension",
+      "hindi": {
+        "word": "बगीचा",
+        "sentence": "राम का एक छोटा बगीचा है। उसमें आम और गुलाब के पौधे हैं। वह रोज़ सुबह पौधों को पानी देता है।"
+      }
+    },
+    {
+      "concept_id": "data_interpretation_fruit_count",
+      "grade": ["grade_3"],
+      "domain": "numeracy",
+      "category": "data",
+      "hindi": { "word": "फलों की गिनती", "sentence": "टोकरी में 4 आम और 6 केले हैं। कुल फल कितने हैं?" },
+      "extra": { "operand_a": 4, "operand_b": 6, "operator": "+", "result": 10 }
+    }
+  ]
+}

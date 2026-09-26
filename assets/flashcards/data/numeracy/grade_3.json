@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+      "id": "num_g3_subtraction_001",
+      "grade": "grade_3",
+      "domain": "numeracy",
+      "topic": "subtraction",
+      "hindi": { "word": "9 − 4 = 5", "description": "नौ में से चार घटाने पर पाँच बचता है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g3_num_001" }
+    },
+    {
+      "id": "num_g3_measurement_001",
+      "grade": "grade_3",
+      "domain": "numeracy",
+      "topic": "measurement",
+      "hindi": { "word": "भारी / हल्का", "description": "पत्थर रुई से भारी है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g3_num_001" }
+    },
+    {
+      "id": "num_g3_patterns_001",
+      "grade": "grade_3",
+      "domain": "numeracy",
+      "topic": "patterns",
+      "hindi": { "word": "2, 4, 6, 8, __", "description": "अगली संख्या क्या होगी?" },
+      "nipun": { "internal_outcome_id": "internal_fn_g3_num_001" }
+    },
+    {
+      "id": "num_g3_comparison_001",
+      "grade": "grade_3",
+      "domain": "numeracy",
+      "topic": "number_comparison",
+      "hindi": { "word": "18 < 27", "description": "अठारह, सत्ताईस से छोटा है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g3_num_001" }
+    }
+  ]
+}

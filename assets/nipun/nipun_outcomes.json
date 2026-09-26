@@ -1,0 +1,174 @@
+{
+  "dataset_status": {
+    "is_complete_official_nipun_framework": false,
+    "note": "This file contains a small illustrative starter set (one outcome per grade x domain) for development/demo purposes. It has NOT been verified against, or copied from, the official NIPUN Bharat / FLN Government of India outcome codes. All ids are prefixed 'internal_' and must never be presented to end users as official government reference codes. Replace this file with the verified official dataset before claiming NIPUN compliance."
+  },
+  "outcomes": [
+    {
+      "id": "internal_fl_bal_lit_001",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "competency": "Oral language development and vocabulary",
+      "learning_outcome": "Child identifies common objects, animals and pictures and names them orally.",
+      "skills": [
+        "picture_recognition",
+        "oral_vocabulary",
+        "listening"
+      ],
+      "allowed_question_types": [
+        "match_following",
+        "mcq"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fn_bal_num_001",
+      "grade": "balvatika",
+      "domain": "numeracy",
+      "competency": "Pre-number concepts",
+      "learning_outcome": "Child sorts and classifies objects by shape, size or color and recognizes patterns.",
+      "skills": [
+        "sorting",
+        "shapes",
+        "patterns",
+        "counting_1_to_10"
+      ],
+      "allowed_question_types": [
+        "match_following",
+        "mcq"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fl_g1_lit_001",
+      "grade": "grade_1",
+      "domain": "literacy",
+      "competency": "Word recognition and basic vocabulary",
+      "learning_outcome": "Child reads familiar words and simple sentences with understanding.",
+      "skills": [
+        "word_reading",
+        "simple_sentence_comprehension"
+      ],
+      "allowed_question_types": [
+        "mcq",
+        "fill_blank",
+        "match_following",
+        "true_false"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fn_g1_num_001",
+      "grade": "grade_1",
+      "domain": "numeracy",
+      "competency": "Number sense up to 20",
+      "learning_outcome": "Child counts, compares and performs simple addition/subtraction of numbers up to 20.",
+      "skills": [
+        "counting",
+        "comparison",
+        "addition",
+        "subtraction"
+      ],
+      "allowed_question_types": [
+        "mcq",
+        "fill_blank",
+        "true_false",
+        "short_answer"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fl_g2_lit_001",
+      "grade": "grade_2",
+      "domain": "literacy",
+      "competency": "Sentence and short passage comprehension",
+      "learning_outcome": "Child reads short passages and answers simple comprehension questions.",
+      "skills": [
+        "sentence_comprehension",
+        "vocabulary_application"
+      ],
+      "allowed_question_types": [
+        "mcq",
+        "fill_blank",
+        "true_false",
+        "short_answer"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fn_g2_num_001",
+      "grade": "grade_2",
+      "domain": "numeracy",
+      "competency": "Addition, subtraction and measurement",
+      "learning_outcome": "Child solves addition/subtraction problems up to 100 and compares lengths/weights.",
+      "skills": [
+        "addition",
+        "subtraction",
+        "measurement",
+        "patterns"
+      ],
+      "allowed_question_types": [
+        "mcq",
+        "fill_blank",
+        "short_answer",
+        "true_false"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fl_g3_lit_001",
+      "grade": "grade_3",
+      "domain": "literacy",
+      "competency": "Reading comprehension and application",
+      "learning_outcome": "Child reads a short passage and answers inferential and factual questions.",
+      "skills": [
+        "reading_comprehension",
+        "vocabulary_application",
+        "sentence_construction"
+      ],
+      "allowed_question_types": [
+        "mcq",
+        "fill_blank",
+        "short_answer",
+        "true_false"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    },
+    {
+      "id": "internal_fn_g3_num_001",
+      "grade": "grade_3",
+      "domain": "numeracy",
+      "competency": "Multi-step numeracy and data interpretation",
+      "learning_outcome": "Child solves multi-step numeracy problems and interprets simple data/patterns.",
+      "skills": [
+        "multi_step_operations",
+        "measurement",
+        "data_interpretation",
+        "patterns"
+      ],
+      "allowed_question_types": [
+        "mcq",
+        "fill_blank",
+        "short_answer",
+        "true_false"
+      ],
+      "source": "internal_starter_dataset",
+      "is_official_verified": false,
+      "provenance_note": "Illustrative internal outcome inspired by publicly described NIPUN Bharat FLN goals; NOT copied from, or verified against, the official Government of India NIPUN Bharat outcome codes. One representative outcome per grade x domain only -- this is a small starter set, not the complete FLN outcome framework."
+    }
+  ]
+}

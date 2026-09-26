@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+      "id": "num_g1_numbers_001",
+      "grade": "grade_1",
+      "domain": "numeracy",
+      "topic": "numbers",
+      "hindi": { "word": "७", "description": "यह संख्या सात है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g1_num_001" }
+    },
+    {
+      "id": "num_g1_counting_001",
+      "grade": "grade_1",
+      "domain": "numeracy",
+      "topic": "counting",
+      "hindi": { "word": "● ● ● ● ●", "description": "इन बिंदुओं को गिनिए।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g1_num_001" }
+    },
+    {
+      "id": "num_g1_addition_001",
+      "grade": "grade_1",
+      "domain": "numeracy",
+      "topic": "addition",
+      "hindi": { "word": "2 + 3 = 5", "description": "दो और तीन जोड़ने पर पाँच आता है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g1_num_001" }
+    },
+    {
+      "id": "num_g1_shapes_001",
+      "grade": "grade_1",
+      "domain": "numeracy",
+      "topic": "shapes",
+      "hindi": { "word": "वर्ग", "description": "इसकी चारों भुजाएँ बराबर होती हैं।" },
+      "nipun": { "internal_outcome_id": "internal_fn_g1_num_001" }
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+      "id": "num_bal_shapes_001",
+      "grade": "balvatika",
+      "domain": "numeracy",
+      "topic": "shapes",
+      "hindi": { "word": "वृत्त", "description": "यह एक गोल आकार है।" },
+      "nipun": { "internal_outcome_id": "internal_fn_bal_num_001" }
+    },
+    {
+      "id": "num_bal_shapes_002",
+      "grade": "balvatika",
+      "domain": "numeracy",
+      "topic": "shapes",
+      "hindi": { "word": "त्रिभुज", "description": "इसकी तीन भुजाएँ होती हैं।" },
+      "nipun": { "internal_outcome_id": "internal_fn_bal_num_001" }
+    },
+    {
+      "id": "num_bal_counting_001",
+      "grade": "balvatika",
+      "domain": "numeracy",
+      "topic": "counting",
+      "hindi": { "word": "५", "description": "पाँच गेंदें गिनिए।" },
+      "nipun": { "internal_outcome_id": "internal_fn_bal_num_001" }
+    },
+    {
+      "id": "num_bal_patterns_001",
+      "grade": "balvatika",
+      "domain": "numeracy",
+      "topic": "patterns",
+      "hindi": { "word": "○ △ ○ △", "description": "अगला आकार कौन सा आएगा?" },
+      "nipun": { "internal_outcome_id": "internal_fn_bal_num_001" }
+    }
+  ]
+}

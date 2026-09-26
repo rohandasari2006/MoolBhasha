@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+      "id": "lit_g2_words_001",
+      "grade": "grade_2",
+      "domain": "literacy",
+      "topic": "words",
+      "hindi": { "word": "आम", "description": "आम मीठा फल है।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g2_lit_001" }
+    },
+    {
+      "id": "lit_g2_vocabulary_001",
+      "grade": "grade_2",
+      "domain": "literacy",
+      "topic": "vocabulary",
+      "hindi": { "word": "माँ", "description": "माँ हमारा ध्यान रखती है।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g2_lit_001" }
+    },
+    {
+      "id": "lit_g2_reading_001",
+      "grade": "grade_2",
+      "domain": "literacy",
+      "topic": "reading",
+      "hindi": { "word": "कुत्ता भौंकता है।", "description": "इस वाक्य को पढ़िए।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g2_lit_001" }
+    },
+    {
+      "id": "lit_g2_words_002",
+      "grade": "grade_2",
+      "domain": "literacy",
+      "topic": "words",
+      "hindi": { "word": "पेंसिल", "description": "यह लिखने का सामान है।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g2_lit_001" }
+    }
+  ]
+}

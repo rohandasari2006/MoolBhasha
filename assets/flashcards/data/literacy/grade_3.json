@@ -1,0 +1,36 @@
+{
+  "flashcards": [
+    {
+      "id": "lit_g3_reading_001",
+      "grade": "grade_3",
+      "domain": "literacy",
+      "topic": "reading",
+      "hindi": { "word": "राम का एक छोटा बगीचा है।", "description": "इस वाक्य को पढ़कर समझिए।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g3_lit_001" }
+    },
+    {
+      "id": "lit_g3_vocabulary_001",
+      "grade": "grade_3",
+      "domain": "literacy",
+      "topic": "vocabulary",
+      "hindi": { "word": "परिवार", "description": "परिवार में माता-पिता और बच्चे होते हैं।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g3_lit_001" }
+    },
+    {
+      "id": "lit_g3_oral_001",
+      "grade": "grade_3",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "hindi": { "word": "आपका पसंदीदा फल कौन सा है?", "description": "इस प्रश्न का उत्तर बोलकर दीजिए।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g3_lit_001" }
+    },
+    {
+      "id": "lit_g3_words_001",
+      "grade": "grade_3",
+      "domain": "literacy",
+      "topic": "words",
+      "hindi": { "word": "बगीचा", "description": "बगीचे में फूल और पेड़ होते हैं।" },
+      "nipun": { "internal_outcome_id": "internal_fl_g3_lit_001" }
+    }
+  ]
+}

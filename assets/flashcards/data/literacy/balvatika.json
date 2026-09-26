@@ -1,0 +1,3068 @@
+{
+  "flashcards": [
+    {
+      "id": "lit_bal_oral_001",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "hindi": {
+        "word": "गाय",
+        "description": "यह गाय है। गाय की आवाज़ जैसी बोलिए।"
+      },
+      "image_asset": "assets/flashcards/images/animals/cow.webp",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_002",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "hindi": {
+        "word": "कुत्ता",
+        "description": "यह कुत्ता है। कुत्ता क्या करता है?"
+      },
+      "image_asset": "assets/flashcards/images/animals/dog.webp",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_letters_001",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "letters",
+      "hindi": {
+        "word": "अ",
+        "description": "यह पहला स्वर है।"
+      },
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_letters_002",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "letters",
+      "hindi": {
+        "word": "आ",
+        "description": "यह दूसरा स्वर है।"
+      },
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-okapi",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "ओकापी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-okapi.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-gemsbok1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "जेम्सबॉक मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-gemsbok1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_gorilla1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "गोरिल्ला"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/gorilla1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-ibex",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "आइबेक्स"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-ibex.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_orangutan",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "ओरंगउटान"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/orangutan.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cat-tiger1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "बाघ"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cat-tiger1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-lechwe",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "लेच्वे मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-lechwe.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-lechwe1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "लेच्वे मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-lechwe1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_camel",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "ऊँट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/camel.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-sableantelope",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "सेबल मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-sableantelope.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-damagazelle",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "डामा गज़ेल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-damagazelle.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_bear-brownbear1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "भूरा भालू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/bear-brownbear1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cat-tigerwhite",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "सफ़ेद बाघ"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cat-tigerwhite.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_llama-alpaca",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "अल्पाका"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/llama-alpaca.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cow-waterbuffalo",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "भैंस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cow-waterbuffalo.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-moose1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "मूस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-moose1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-barbarysheep",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "बार्बरी भेड़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-barbarysheep.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_kangaroo",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "कंगारू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/kangaroo.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-zebra",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "ज़ेबरा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-zebra.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-sealion1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "सी लायन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-sealion1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_giraffe",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "जिराफ़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/giraffe.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_gorilla",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "गोरिल्ला"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/gorilla.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-nyala1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "न्याला मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-nyala1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cat-cougar1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "कूगर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cat-cougar1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cow-hornedcow",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "सींग वाली गाय"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cow-hornedcow.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cow-waterbuffalo1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "भैंस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cow-waterbuffalo1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-saiga1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "साइगा मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-saiga1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_elephant1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "हाथी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/elephant1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_elephant-asian",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "एशियाई हाथी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/elephant-asian.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-chamois1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "शैमोइस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-chamois1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-dolphin",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "डॉल्फ़िन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-dolphin.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-reindeer",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "रेनडियर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-reindeer.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-mountaingoat1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "पहाड़ी बकरी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-mountaingoat1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-kulan",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "कुलान (जंगली गधा)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-kulan.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-eland",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "एलैंड हिरण"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-eland.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_ostrich",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "शुतुरमुर्ग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/ostrich.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_bear-panda",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "पांडा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/bear-panda.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-sealion",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "सी लायन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-sealion.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_bear-blackbear",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "काला भालू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/bear-blackbear.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cow-bull",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "साँड़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cow-bull.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-koudou",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "कुडू मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-koudou.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-wildebeest",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "वाइल्डबीस्ट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-wildebeest.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cow1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "गाय"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cow1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-bongo",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "बोंगो मृग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-bongo.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cat-panther",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "पैंथर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cat-panther.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hoofed-agnu",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "जीनू (वाइल्डबीस्ट)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hoofed-agnu.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_horse",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "घोड़ा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/horse.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_buffalo",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "भैंस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/buffalo.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_yak",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "याक"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/yak.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_hippo",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "दरियाई घोड़ा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/hippo.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-manatee",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "मैनेटी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-manatee.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_bear-polarbear",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "ध्रुवीय भालू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/bear-polarbear.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_rhino",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "गैंडा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/rhino.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-whale",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "व्हेल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-whale.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-walrus1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "वालरस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-walrus1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-shark-hammerhead",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "हैमरहेड शार्क"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-shark-hammerhead.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_water-crocodile",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "मगरमच्छ"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/water-crocodile.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_animate_cat-lion1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_animate",
+      "hindi": {
+        "word": "शेर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_animate/cat-lion1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_telephonebooth",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "टेलीफ़ोन बूथ"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/telephonebooth.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_ladder",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "सीढ़ी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/ladder.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_mailbox",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "डाक बक्सा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/mailbox.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_acabinetwith2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "अलमारी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/acabinetwith2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_refridgerator",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "फ्रिज"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/refridgerator.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_aarch",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "मेहराब (आर्च)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/aarch.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_sodamachine",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "सोडा मशीन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/sodamachine.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_popcornmachine",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "पॉपकॉर्न मशीन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/popcornmachine.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_easel",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "चित्रफलक (ईज़ल)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/easel.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_vendingmachine",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "वेंडिंग मशीन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/vendingmachine.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_deskchair",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "कुर्सी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/deskchair.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_bookcase",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "किताबों की अलमारी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/bookcase.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_shoppingcart",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "शॉपिंग कार्ट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/shoppingcart.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_stroller",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "बच्चों की गाड़ी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/stroller.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_aantchair",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "पुरानी कुर्सी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/aantchair.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_acabinet49",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "अलमारी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/acabinet49.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_abarrel30",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "पीपा (बैरल)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/abarrel30.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_oven",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ओवन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/oven.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_acanoe19",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "डोंगी (कैनो)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/acanoe19.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_300px-barnevogn2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "बच्चों की गाड़ी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/300px-barnevogn2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_garbagecan",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "कूड़ेदान"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/garbagecan.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_acabinet48",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "अलमारी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/acabinet48.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_uprightpiano",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "पियानो"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/uprightpiano.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_aarmcha25",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "आरामकुर्सी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/aarmcha25.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_dishwasher",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "बर्तन धोने की मशीन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/dishwasher.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_wheelchair",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "व्हीलचेयर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/wheelchair.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_adressertabl3",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ड्रेसिंग टेबल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/adressertabl3.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_treadmill",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ट्रेडमिल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/treadmill.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_crib",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "पालना"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/crib.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_abike",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "साइकिल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/abike.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_agrandpiano13",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ग्रैंड पियानो"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/agrandpiano13.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_bunkbed",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "दो मंज़िला पलंग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/bunkbed.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_grill",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ग्रिल (भुनने की जाली)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/grill.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_tent",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "तंबू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/tent.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_fooseballtable",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "फुटबॉल टेबल गेम"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/fooseballtable.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_jetski",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "जेट स्की"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/jetski.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_pingpongtable",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "टेबल टेनिस मेज़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/pingpongtable.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_drumset",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ड्रम सेट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/drumset.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_picnictable",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "पिकनिक मेज़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/picnictable.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_firetruck",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "दमकल गाड़ी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/firetruck.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_van",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "वैन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/van.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_schoolbus",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "स्कूल बस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/schoolbus.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_wheelbarrow",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "ठेला"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/wheelbarrow.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_big_inanimate_couch",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "big_inanimate",
+      "hindi": {
+        "word": "सोफ़ा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/big_inanimate/couch.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_prariedog",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "प्रेयरी डॉग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/prariedog.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-cardinal",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "कार्डिनल चिड़िया"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-cardinal.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-parrot2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "तोता"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-parrot2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-finch",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "फिंच चिड़िया"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-finch.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_rooster",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "मुर्गा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/rooster.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-hawk1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "बाज़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-hawk1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-hummingbird",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "हमिंगबर्ड"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-hummingbird.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "कीट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-pigeon",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "कबूतर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-pigeon.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_dog-chihuahua",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चिहुआहुआ कुत्ता"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/dog-chihuahua.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_owl2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "उल्लू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/owl2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_mouse",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चूहा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/mouse.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_rat",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चूहा (बड़ा)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/rat.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bunny2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "खरगोश"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bunny2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_seahorse",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "समुद्री घोड़ा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/seahorse.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-quail",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "बटेर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-quail.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-beetle",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "भृंग (बीटल)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-beetle.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_lemur2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "लीमर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/lemur2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bat",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चमगादड़"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bat.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-misc",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चिड़िया"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-misc.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_squirrel",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "गिलहरी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/squirrel.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_armadillo",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "आर्मडिलो"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/armadillo.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-seagull",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "समुद्री चिड़िया (सीगल)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-seagull.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_kitty2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "बिल्ली का बच्चा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/kitty2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bunny",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "खरगोश"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bunny.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect3",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "कीट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect3.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_chick",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चूज़ा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/chick.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_duck",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "बत्तख"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/duck.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_gerbil",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "जर्बिल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/gerbil.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_lobster",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "झींगा मछली (लॉबस्टर)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/lobster.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-ladybug",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "लेडीबग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-ladybug.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_crab2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "केकड़ा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/crab2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-ant",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चींटी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-ant.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_fish-goldfish",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "सुनहरी मछली"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/fish-goldfish.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-butterfly",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "तितली"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-butterfly.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_hamster",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "हैम्स्टर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/hamster.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_chicken",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "मुर्गी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/chicken.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-moth",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "पतंगा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-moth.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_frog2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "मेंढक"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/frog2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-butterfly9",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "तितली"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-butterfly9.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-roadrunner",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "रोडरनर चिड़िया"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-roadrunner.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_duck1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "बत्तख"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/duck1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_bird-canary",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "कैनरी चिड़िया"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/bird-canary.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_chipmunk",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चिपमंक"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/chipmunk.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-cricket",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "झींगुर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-cricket.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_frog1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "मेंढक"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/frog1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_hedgehog",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "साही (हेजहॉग)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/hedgehog.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_chinchilla1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "चिनचिला"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/chinchilla1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_gerbil1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "जर्बिल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/gerbil1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_shrimp",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "झींगा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/shrimp.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_duck2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "बत्तख"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/duck2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_guineapig",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "गिनी पिग"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/guineapig.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_lizard1",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "छिपकली"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/lizard1.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_mole",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "छछूंदर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/mole.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_snail",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "घोंघा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/snail.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_insect-bee",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "मधुमक्खी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/insect-bee.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_fish-angelfish",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "एंजेलफिश"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/fish-angelfish.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_ferret",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "फेरेट"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/ferret.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_snake",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "साँप"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/snake.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_animate_turtle",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_animate",
+      "hindi": {
+        "word": "कछुआ"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_animate/turtle.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_pepper01",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "मिर्च"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/pepper01.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_amagngla3",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "आवर्धक लेंस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/amagngla3.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_lightbulb",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "बल्ब"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/lightbulb.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_ahandheldbel2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "हाथ की घंटी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/ahandheldbel2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acombination8",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कॉम्बिनेशन लॉक"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acombination8.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_ignitionkey01",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "गाड़ी की चाबी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/ignitionkey01.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_ringbox03",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "अंगूठी का डिब्बा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/ringbox03.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_abinoculars5",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "दूरबीन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/abinoculars5.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aheadphones",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "हेडफ़ोन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aheadphones.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_corkscrew02",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कॉर्कस्क्रू"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/corkscrew02.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aanticup4",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "पुराना कप"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aanticup4.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acompas19",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "दिशासूचक (कंपास)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acompas19.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_athimble2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "अंगुश्ताना"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/athimble2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_adiscman",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "डिस्कमैन (सीडी प्लेयर)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/adiscman.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_arollofstrin2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "धागे का गोला"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/arollofstrin2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_ascotape",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "चिपकाने वाली टेप"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/ascotape.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_perfume",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "इत्र"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/perfume.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_atennisball2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "टेनिस बॉल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/atennisball2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_asoccball",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "फुटबॉल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/asoccball.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_funnel",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कीप (फ़नल)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/funnel.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_pinecone02",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "चीड़ का फल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/pinecone02.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_changepurse03",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "सिक्कों का बटुआ"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/changepurse03.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aashtray67",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "ऐशट्रे"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aashtray67.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aantiquehat4",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "पुरानी टोपी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aantiquehat4.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_pacifier",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "पैसिफायर (शांतिदायक)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/pacifier.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_abadbirdy",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "बैडमिंटन की चिड़िया"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/abadbirdy.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_adayplanner",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "डायरी (प्लानर)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/adayplanner.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_askigoggles10",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "स्की चश्मा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/askigoggles10.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_abicycleshoe",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "साइकिल जूता"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/abicycleshoe.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acupsau43",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कप और तश्तरी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acupsau43.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_a70ssunglass3",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "धूप का चश्मा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/a70ssunglass3.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_afloppydisk6",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "फ्लॉपी डिस्क"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/afloppydisk6.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_dustpan02",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "डस्टपैन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/dustpan02.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_computer-mouse",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कंप्यूटर माउस"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/computer-mouse.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_abrush46",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "ब्रश"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/abrush46.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_wristwatch",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कलाई घड़ी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/wristwatch.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acalculator21",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कैलकुलेटर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acalculator21.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aflashlight3",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "टॉर्च"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aflashlight3.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aspoolofthre6",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "धागे की रील"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aspoolofthre6.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_aboxoftissue5",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "टिशू बॉक्स"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/aboxoftissue5.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acalculator12",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कैलकुलेटर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acalculator12.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acreamer35",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "क्रीमर (दूध का जग)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acreamer35.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_bait04",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "मछली का चारा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/bait04.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_asandal7",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "चप्पल"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/asandal7.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_atrowel37",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कुरेदनी (ट्रॉवेल)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/atrowel37.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_harmonica",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "माउथ ऑर्गन"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/harmonica.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_ablackhat2",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "काली टोपी"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/ablackhat2.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_amitten6",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "दस्ताना (मिट्टन)"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/amitten6.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_sponge",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "स्पंज"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/sponge.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_acoathanger4",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कपड़े की हैंगर"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/acoathanger4.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_afan60",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "पंखा"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/afan60.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_socks01",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "मोज़े"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/socks01.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    },
+    {
+      "id": "lit_bal_oral_small_inanimate_scissors01",
+      "grade": "balvatika",
+      "domain": "literacy",
+      "topic": "oral_language",
+      "category": "small_inanimate",
+      "hindi": {
+        "word": "कैंची"
+      },
+      "image_asset": "assets/flashcards/images/animacy_size/small_inanimate/scissors01.jpg",
+      "nipun": {
+        "internal_outcome_id": "internal_fl_bal_lit_001"
+      }
+    }
+  ]
+}
